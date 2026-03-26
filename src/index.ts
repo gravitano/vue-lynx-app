@@ -1,6 +1,6 @@
-import { createApp } from 'vue-lynx'
+import { createApp } from 'vue-lynx';
 
-import App from './App.vue'
+import App from './App.vue';
 
-const app = createApp(App)
-app.mount()
+const app = createApp(App);
+app.mount();
